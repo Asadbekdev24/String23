@@ -11,6 +11,10 @@ fun main() {
     vali.ismi="Vali"
     vali.yil=2008
     vali.yoshi=15
+
+    println(ali.ismi)
+
+
 }
 
 class talaba(){
